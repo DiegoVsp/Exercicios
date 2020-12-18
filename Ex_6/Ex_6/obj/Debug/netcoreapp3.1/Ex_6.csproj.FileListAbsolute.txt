@@ -1,0 +1,13 @@
+C:\Users\Diego\source\repos\Exercicios\Ex_6\Ex_6\bin\Debug\netcoreapp3.1\Ex_6.exe
+C:\Users\Diego\source\repos\Exercicios\Ex_6\Ex_6\bin\Debug\netcoreapp3.1\Ex_6.deps.json
+C:\Users\Diego\source\repos\Exercicios\Ex_6\Ex_6\bin\Debug\netcoreapp3.1\Ex_6.runtimeconfig.json
+C:\Users\Diego\source\repos\Exercicios\Ex_6\Ex_6\bin\Debug\netcoreapp3.1\Ex_6.runtimeconfig.dev.json
+C:\Users\Diego\source\repos\Exercicios\Ex_6\Ex_6\bin\Debug\netcoreapp3.1\Ex_6.dll
+C:\Users\Diego\source\repos\Exercicios\Ex_6\Ex_6\bin\Debug\netcoreapp3.1\Ex_6.pdb
+C:\Users\Diego\source\repos\Exercicios\Ex_6\Ex_6\obj\Debug\netcoreapp3.1\Ex_6.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\Exercicios\Ex_6\Ex_6\obj\Debug\netcoreapp3.1\Ex_6.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\Exercicios\Ex_6\Ex_6\obj\Debug\netcoreapp3.1\Ex_6.AssemblyInfo.cs
+C:\Users\Diego\source\repos\Exercicios\Ex_6\Ex_6\obj\Debug\netcoreapp3.1\Ex_6.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Exercicios\Ex_6\Ex_6\obj\Debug\netcoreapp3.1\Ex_6.dll
+C:\Users\Diego\source\repos\Exercicios\Ex_6\Ex_6\obj\Debug\netcoreapp3.1\Ex_6.pdb
+C:\Users\Diego\source\repos\Exercicios\Ex_6\Ex_6\obj\Debug\netcoreapp3.1\Ex_6.genruntimeconfig.cache
