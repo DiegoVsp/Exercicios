@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\Exercicios\Fixacao\Fixacao\obj\Debug\netcoreapp3.1\Fixacao.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\Exercicios\Fixacao\Fixacao\obj\Debug\netcoreapp3.1\Fixacao.AssemblyInfo.cs
+C:\Users\Diego\source\repos\Exercicios\Fixacao\Fixacao\obj\Debug\netcoreapp3.1\Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Exercicios\Fixacao\Fixacao\bin\Debug\netcoreapp3.1\Fixacao.exe
+C:\Users\Diego\source\repos\Exercicios\Fixacao\Fixacao\bin\Debug\netcoreapp3.1\Fixacao.deps.json
+C:\Users\Diego\source\repos\Exercicios\Fixacao\Fixacao\bin\Debug\netcoreapp3.1\Fixacao.runtimeconfig.json
+C:\Users\Diego\source\repos\Exercicios\Fixacao\Fixacao\bin\Debug\netcoreapp3.1\Fixacao.runtimeconfig.dev.json
+C:\Users\Diego\source\repos\Exercicios\Fixacao\Fixacao\bin\Debug\netcoreapp3.1\Fixacao.dll
+C:\Users\Diego\source\repos\Exercicios\Fixacao\Fixacao\bin\Debug\netcoreapp3.1\Fixacao.pdb
+C:\Users\Diego\source\repos\Exercicios\Fixacao\Fixacao\obj\Debug\netcoreapp3.1\Fixacao.dll
+C:\Users\Diego\source\repos\Exercicios\Fixacao\Fixacao\obj\Debug\netcoreapp3.1\Fixacao.pdb
+C:\Users\Diego\source\repos\Exercicios\Fixacao\Fixacao\obj\Debug\netcoreapp3.1\Fixacao.genruntimeconfig.cache
