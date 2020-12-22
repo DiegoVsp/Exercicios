@@ -6,7 +6,18 @@ namespace Ex_7
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int n;
+
+            Console.WriteLine("Digite um número");
+                n = int.Parse(Console.ReadLine());
+
+            if (n < 0)
+            {
+                Console.WriteLine("Número negativo");
+            }else
+            {
+                Console.WriteLine("Número Positivo");
+            }
         }
     }
 }

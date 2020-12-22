@@ -1,0 +1,13 @@
+C:\Users\Diego\source\repos\Exercicios\Ex_10\Ex_10\obj\Debug\netcoreapp3.1\Ex_10.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\Exercicios\Ex_10\Ex_10\obj\Debug\netcoreapp3.1\Ex_10.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\Exercicios\Ex_10\Ex_10\obj\Debug\netcoreapp3.1\Ex_10.AssemblyInfo.cs
+C:\Users\Diego\source\repos\Exercicios\Ex_10\Ex_10\obj\Debug\netcoreapp3.1\Ex_10.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Exercicios\Ex_10\Ex_10\bin\Debug\netcoreapp3.1\Ex_10.exe
+C:\Users\Diego\source\repos\Exercicios\Ex_10\Ex_10\bin\Debug\netcoreapp3.1\Ex_10.deps.json
+C:\Users\Diego\source\repos\Exercicios\Ex_10\Ex_10\bin\Debug\netcoreapp3.1\Ex_10.runtimeconfig.json
+C:\Users\Diego\source\repos\Exercicios\Ex_10\Ex_10\bin\Debug\netcoreapp3.1\Ex_10.runtimeconfig.dev.json
+C:\Users\Diego\source\repos\Exercicios\Ex_10\Ex_10\bin\Debug\netcoreapp3.1\Ex_10.dll
+C:\Users\Diego\source\repos\Exercicios\Ex_10\Ex_10\bin\Debug\netcoreapp3.1\Ex_10.pdb
+C:\Users\Diego\source\repos\Exercicios\Ex_10\Ex_10\obj\Debug\netcoreapp3.1\Ex_10.dll
+C:\Users\Diego\source\repos\Exercicios\Ex_10\Ex_10\obj\Debug\netcoreapp3.1\Ex_10.pdb
+C:\Users\Diego\source\repos\Exercicios\Ex_10\Ex_10\obj\Debug\netcoreapp3.1\Ex_10.genruntimeconfig.cache
