@@ -1,0 +1,13 @@
+C:\Users\Diego\source\repos\Exercicios\EstruturaCond\EstruturaCond\bin\Debug\netcoreapp3.1\EstruturaCond.exe
+C:\Users\Diego\source\repos\Exercicios\EstruturaCond\EstruturaCond\bin\Debug\netcoreapp3.1\EstruturaCond.deps.json
+C:\Users\Diego\source\repos\Exercicios\EstruturaCond\EstruturaCond\bin\Debug\netcoreapp3.1\EstruturaCond.runtimeconfig.json
+C:\Users\Diego\source\repos\Exercicios\EstruturaCond\EstruturaCond\bin\Debug\netcoreapp3.1\EstruturaCond.runtimeconfig.dev.json
+C:\Users\Diego\source\repos\Exercicios\EstruturaCond\EstruturaCond\bin\Debug\netcoreapp3.1\EstruturaCond.dll
+C:\Users\Diego\source\repos\Exercicios\EstruturaCond\EstruturaCond\bin\Debug\netcoreapp3.1\EstruturaCond.pdb
+C:\Users\Diego\source\repos\Exercicios\EstruturaCond\EstruturaCond\obj\Debug\netcoreapp3.1\EstruturaCond.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\Exercicios\EstruturaCond\EstruturaCond\obj\Debug\netcoreapp3.1\EstruturaCond.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\Exercicios\EstruturaCond\EstruturaCond\obj\Debug\netcoreapp3.1\EstruturaCond.AssemblyInfo.cs
+C:\Users\Diego\source\repos\Exercicios\EstruturaCond\EstruturaCond\obj\Debug\netcoreapp3.1\EstruturaCond.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Exercicios\EstruturaCond\EstruturaCond\obj\Debug\netcoreapp3.1\EstruturaCond.dll
+C:\Users\Diego\source\repos\Exercicios\EstruturaCond\EstruturaCond\obj\Debug\netcoreapp3.1\EstruturaCond.pdb
+C:\Users\Diego\source\repos\Exercicios\EstruturaCond\EstruturaCond\obj\Debug\netcoreapp3.1\EstruturaCond.genruntimeconfig.cache
